@@ -9,13 +9,13 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "chokidar": "^4.0.1",
-    "vite": "^6.0.3"
+    "chokidar": "^4.0.3",
+    "vite": "^6.3.5"
   },
   "dependencies": {
-    "phaser": "^3.87.0",
+    "phaser": "^3.90.0",
     "psd-to-phaser": "^0.0.2",
-    "ua-parser-js": "^2.0.0",
+    "ua-parser-js": "^2.0.3",
     "webfontloader": "^1.6.28"
   }
 }
